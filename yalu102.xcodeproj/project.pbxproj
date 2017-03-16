@@ -73,7 +73,7 @@
 		EA9900DA1E1E9F060056FEBD = {
 			isa = PBXGroup;
 			children = (
-				EA9900E51E1E9F060056FEBD /* yalu102 */,
+				EA9900E51E1E9F060056FEBD /* yalu102.1 */,
 				EA9900E41E1E9F060056FEBD /* Products */,
 			);
 			sourceTree = "<group>";
@@ -81,12 +81,12 @@
 		EA9900E41E1E9F060056FEBD /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				EA9900E31E1E9F060056FEBD /* yalu102.app */,
+				EA9900E31E1E9F060056FEBD /* yalu102.1.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		EA9900E51E1E9F060056FEBD /* yalu102 */ = {
+		EA9900E51E1E9F060056FEBD /* yalu102 .1*/ = {
 			isa = PBXGroup;
 			children = (
 				EAA7F7C61E3EE4AF00BE3C64 /* dropbear.plist */,
@@ -129,9 +129,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		EA9900E21E1E9F060056FEBD /* yalu102 */ = {
+		EA9900E21E1E9F060056FEBD /* yalu102.1 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EA9900FA1E1E9F060056FEBD /* Build configuration list for PBXNativeTarget "yalu102" */;
+			buildConfigurationList = EA9900FA1E1E9F060056FEBD /* Build configuration list for PBXNativeTarget "yalu102.1" */;
 			buildPhases = (
 				EA9900DF1E1E9F060056FEBD /* Sources */,
 				EA9900E01E1E9F060056FEBD /* Frameworks */,
@@ -141,9 +141,9 @@
 			);
 			dependencies = (
 			);
-			name = yalu102;
-			productName = yalu102;
-			productReference = EA9900E31E1E9F060056FEBD /* yalu102.app */;
+			name = yalu102.1;
+			productName = yalu102.1;
+			productReference = EA9900E31E1E9F060056FEBD /* yalu102.1.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -162,7 +162,7 @@
 					};
 				};
 			};
-			buildConfigurationList = EA9900DE1E1E9F060056FEBD /* Build configuration list for PBXProject "yalu102" */;
+			buildConfigurationList = EA9900DE1E1E9F060056FEBD /* Build configuration list for PBXProject "yalu102.1" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -175,7 +175,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EA9900E21E1E9F060056FEBD /* yalu102 */,
+				EA9900E21E1E9F060056FEBD /* yalu102.1 */,
 			);
 		};
 /* End PBXProject section */
@@ -344,7 +344,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/yalu102",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = kim.cracksby.yalu102;
+				PRODUCT_BUNDLE_IDENTIFIER = kim.cracksby.yalu102.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				VALID_ARCHS = armv7;
 			};
@@ -363,7 +363,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/yalu102",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = kim.cracksby.yalu102;
+				PRODUCT_BUNDLE_IDENTIFIER = kim.cracksby.yalu102.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				VALID_ARCHS = armv7;
 			};
@@ -372,7 +372,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		EA9900DE1E1E9F060056FEBD /* Build configuration list for PBXProject "yalu102" */ = {
+		EA9900DE1E1E9F060056FEBD /* Build configuration list for PBXProject "yalu102.1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EA9900F81E1E9F060056FEBD /* Debug */,
@@ -381,7 +381,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EA9900FA1E1E9F060056FEBD /* Build configuration list for PBXNativeTarget "yalu102" */ = {
+		EA9900FA1E1E9F060056FEBD /* Build configuration list for PBXNativeTarget "yalu102.1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EA9900FB1E1E9F060056FEBD /* Debug */,
